@@ -84,7 +84,7 @@ const Navbar = () => {
                   to={item.path}
                   onClick={() => setIsOpen(false)}
                   className={`block text-accent hover:text-secondary transition-colors ${
-                    location.pathname === item.path ? 'font-bold' : ''
+                    location.pathname === item.path ? 'font-bold bg-primary/25 border-2 px-2 py-1 rounded-lg' : ''
                   }`}
                 >
                   {item.name}

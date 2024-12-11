@@ -13,6 +13,7 @@ export default {
         background: "#FDE2F3",
       },
       fontFamily: {
+        roboto: ["Hind Mysuru", 'sans-serif'],
       },
     },
   },
