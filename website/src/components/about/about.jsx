@@ -59,11 +59,11 @@ const About = () => {
               transition={{ duration: 0.8 }}
               className="relative"
             >
-              <div className="aspect-square rounded-full overflow-hidden">
+              <div className="aspect-square p-4">
                 <img
-                  src="path-to-mission-image.jpg"
+                  src="/logo.png"
                   alt="Our Mission"
-                  className="object-cover w-full h-full"
+                  className="object-cover w-100 h-100 "
                 />
               </div>
             </motion.div>
