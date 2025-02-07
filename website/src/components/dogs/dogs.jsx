@@ -14,11 +14,11 @@ import PageWrapper from '../pagewrapper/pagewrapper';
 const dogs = [
   {
     id: 1,
-    name: "King Zeus",
+    name: "GSD Female",
     breed: "German Shepherd",
-    image: "dog1.jpg",
+    image: "dg8.jpeg",
     age: "3 years",
-    color: "Sable",
+    color: "Black and Mahogany",
     weight: "85 lbs",
     height: "26 inches",
     championships: "Multiple International Champion",
@@ -49,15 +49,15 @@ const dogs = [
   },
   {
     id: 2,
-    name: "Bella Royal",
-    breed: "Rottweiler",
-    image: "dog2.webp",
+    name: "Bantu Sunny",
+    breed: "Boerboels",
+    image: "dg2.jpeg",
     age: "4 years",
-    color: "Black and Mahogany",
+    color: "Sable",
     weight: "95 lbs",
     height: "24 inches",
-    championships: "Regional Champion",
-    description: "A majestic Rottweiler with exceptional maternal instincts and strength.",
+    championships: "Breeding Female",
+    description: "A majestic Boerboel with exceptional maternal instincts and strength.",
     awards: [
       { icon: Heart, tooltip: "Exceptional Temperament" }, 
       { icon: BookOpenIcon, tooltip: "Certified Trainer" }, 
@@ -65,7 +65,7 @@ const dogs = [
       { icon: UserIcon, tooltip: "Family Companion" },
       { icon: Bone, tooltip: "Training Excellence" }
     ],
-    fullBio: "Bella Royal is more than just a show dog - she's a testament to the Rottweiler breed's intelligence, loyalty, and versatility. Her calm demeanor and protective instincts make her an ideal family companion.",
+    fullBio: "Bella Royal is more than just a show dog - she's a testament to the Boerboels breed's intelligence, loyalty, and versatility. Her calm demeanor and protective instincts make her an ideal family companion.",
     healthCertificates: [
       "Comprehensive Health Screening",
       "Genetic Diversity Tested",
@@ -84,9 +84,9 @@ const dogs = [
   },
   {
     id: 3,
-    name: "Silver Arrow",
-    breed: "Border Collie",
-    image: "dog3.jpg",
+    name: "Swaliymo Tunya",
+    breed: "Boerboels",
+    image: "dog1.jpg",
     age: "2 years",
     color: "Black and White",
     weight: "45 lbs",

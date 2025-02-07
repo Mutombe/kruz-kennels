@@ -95,9 +95,9 @@ const About = () => {
                 initial={{ opacity: 0, y: 50 }}
                 whileInView={{ opacity: 1, y: 0 }}
                 transition={{ duration: 0.8, delay: index * 0.2 }}
-                className="text-center"
+                className="text-center rounded-xl p-8"
               >
-                <div className="relative w-48 h-48 mx-auto mb-6">
+                <div className="relative w-48 h-48 mx-auto mb-6 rounded-full">
                   <div
                     className="absolute inset-0 rounded-full bg-cover bg-center"
                     style={{ backgroundImage: `url(${member.image})` }}
@@ -186,17 +186,17 @@ const team = [
 const facilities = [
   {
     title: "Whelping Area",
-    image: "fc.webp",
+    image: "dg7.jpeg",
     description: "State-of-the-art whelping facilities for mother and puppies"
   },
   {
     title: "Whelping Area",
-    image: "fc2.jpeg",
+    image: "dg10.jpeg",
     description: "State-of-the-art whelping facilities for mother and puppies"
   },
   {
     title: "Whelping Area",
-    image: "fc3.png",
+    image: "dg9.jpeg",
     description: "State-of-the-art whelping facilities for mother and puppies"
   },
   // Add more facilities

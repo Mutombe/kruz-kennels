@@ -232,18 +232,18 @@ const features = [
 
 const champions = [
   {
-    name: "King Zeus",
-    image: "dog1.jpg",
-    description: "Our primary stud, multiple show champion"
+    name: "Swaliymo Tunya",
+    image: "dg1.jpeg",
+    description: "Our resident stud, multiple show champion"
   },
   {
-    name: "Hercules",
-    image: "dog2.webp",
+    name: "Bantu Sunny",
+    image: "dg2.jpeg",
     description: "Our primary stud, multiple show champion"
   },
   {
     name: "Icarus",
-    image: "dog3.jpg",
+    image: "dg8.jpeg",
     description: "Our primary stud, multiple show champion"
   },
   // Add more champions

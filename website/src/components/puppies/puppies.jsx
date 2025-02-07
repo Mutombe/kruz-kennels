@@ -137,7 +137,7 @@ const currentLitters = [
   {
     id: 1,
     parents: "Zeus x Luna",
-    image: "pup1.jpg",
+    image: "pup.jpeg",
     birthDate: "October 15, 2023",
     colors: "Blue, Black, Brindle",
     readyDate: "December 10, 2023",
@@ -147,7 +147,7 @@ const currentLitters = [
   {
     id: 1,
     parents: "Zeus x Luna",
-    image: "pup4.webp",
+    image: "dg3.jpeg",
     birthDate: "October 15, 2023",
     colors: "Blue, Black, Brindle",
     readyDate: "December 10, 2023",
@@ -157,7 +157,7 @@ const currentLitters = [
   {
     id: 1,
     parents: "Zeus x Luna",
-    image: "pup3.webp",
+    image: "dg4.jpeg",
     birthDate: "October 15, 2023",
     colors: "Blue, Black, Brindle",
     readyDate: "December 10, 2023",
