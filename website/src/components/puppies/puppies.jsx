@@ -136,7 +136,7 @@ const Puppies = () => {
 const currentLitters = [
   {
     id: 1,
-    parents: "Zeus x Luna",
+    parents: "Tunya x Sunny",
     image: "pup.jpeg",
     birthDate: "October 15, 2023",
     colors: "Blue, Black, Brindle",
@@ -146,7 +146,7 @@ const currentLitters = [
   },
   {
     id: 1,
-    parents: "Zeus x Luna",
+    parents: "Tunya x Sunny",
     image: "dg3.jpeg",
     birthDate: "October 15, 2023",
     colors: "Blue, Black, Brindle",
@@ -156,7 +156,7 @@ const currentLitters = [
   },
   {
     id: 1,
-    parents: "Zeus x Luna",
+    parents: "Tunya x Sunny",
     image: "dg4.jpeg",
     birthDate: "October 15, 2023",
     colors: "Blue, Black, Brindle",
@@ -170,7 +170,7 @@ const currentLitters = [
 const upcomingLitters = [
   {
     id: 1,
-    parents: "Atlas x Nova",
+    parents: "Tunya x Sunny",
     expectedDate: "January 2024",
     expectedColors: "Blue, Black",
   },
@@ -182,7 +182,7 @@ const upcomingLitters = [
   },
   {
     id: 1,
-    parents: "Atlas x Nova",
+    parents: "Tunya x Sunny",
     expectedDate: "January 2024",
     expectedColors: "Blue, Black",
   },
