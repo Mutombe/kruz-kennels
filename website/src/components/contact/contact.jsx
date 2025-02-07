@@ -34,7 +34,7 @@ const Contact = () => {
           <div
             className="absolute inset-0 bg-cover bg-center"
             style={{
-              backgroundImage: "url('dog2.webp')",
+              backgroundImage: "url('dg6.jpeg')",
               mixBlendMode: 'multiply'
             }}
           />

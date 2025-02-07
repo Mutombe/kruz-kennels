@@ -12,7 +12,7 @@ const Puppies = () => {
           <div
             className="absolute inset-0 bg-cover bg-center"
             style={{
-              backgroundImage: "url('puppies.jpg')",
+              backgroundImage: "url('dg4.jpeg')",
               mixBlendMode: 'multiply'
             }}
           />

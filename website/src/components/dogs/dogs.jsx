@@ -202,7 +202,7 @@ const Dogs = () => {
           <div
             className="absolute inset-0 bg-cover bg-center"
             style={{
-              backgroundImage: "url('pic5.webp')",
+              backgroundImage: "url('dogs.jpeg')",
               mixBlendMode: 'multiply'
             }}
           />
@@ -215,7 +215,7 @@ const Dogs = () => {
             className="text-white max-w-2xl"
           >
             <h1 className="font-display text-5xl md:text-7xl mb-6">
-              Our Champion Dogs
+              Our Dogs
             </h1>
             <p className="text-xl">
               Meet our exceptional breeding dogs with champion bloodlines

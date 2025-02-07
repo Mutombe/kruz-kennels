@@ -12,7 +12,7 @@ const About = () => {
           <div
             className="absolute inset-0 bg-cover bg-center"
             style={{
-              backgroundImage: "url('p4.jpg')",
+              backgroundImage: "url('page.jpeg')",
               mixBlendMode: 'multiply'
             }}
           />

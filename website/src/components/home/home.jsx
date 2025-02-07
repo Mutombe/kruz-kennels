@@ -17,7 +17,7 @@ const Home = () => {
           <div
             className="absolute inset-0 bg-cover bg-center"
             style={{
-              backgroundImage: "url('pic2.jpg')",
+              backgroundImage: "url('home.jpeg')",
               mixBlendMode: 'multiply'
             }}
           />
@@ -234,20 +234,25 @@ const champions = [
   {
     name: "Swaliymo Tunya",
     image: "dg1.jpeg",
-    description: "Our resident stud, multiple show champion"
+    description: " Known for exceptional temperament and perfect breed conformation.",
+    achievements: ["Best in Show 2024", "Champion Bloodline", "Perfect Scoring"]
   },
   {
     name: "Bantu Sunny",
     image: "dg2.jpeg",
-    description: "Our primary stud, multiple show champion"
+    description: "Elite breeding program cornerstone with an outstanding pedigree.",
+    achievements: ["Show Champion", "Superior Breeding Line", "Excellence in Conformation"]
   },
   {
-    name: "Icarus",
+    name: "GSD Female",
     image: "dg8.jpeg",
-    description: "Our primary stud, multiple show champion"
-  },
+    description: "Exemplary female champion combining grace and power.  A true testament to excellence in German Shepherd breeding. A perfect blend of beauty and working ability.",
+    achievements: ["Champion Bloodline", "Working Title", "Show Excellence"]
+  }
   // Add more champions
 ];
+
+
 
 const testimonials = [
   {
