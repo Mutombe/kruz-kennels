@@ -14,7 +14,7 @@ import PageWrapper from '../pagewrapper/pagewrapper';
 const dogs = [
   {
     id: 1,
-    name: "GSD Female",
+    name: "Von Babbz Sky",
     breed: "German Shepherd",
     image: "dg8.jpeg",
     age: "3 years",
@@ -50,10 +50,10 @@ const dogs = [
   {
     id: 2,
     name: "Bantu Sunny",
-    breed: "Boerboels",
+    breed: "Boerboel",
     image: "dg2.jpeg",
-    age: "4 years",
-    color: "Sable",
+    age: "3 years",
+    color: "Fawn",
     weight: "95 lbs",
     height: "24 inches",
     championships: "Breeding Female",
@@ -65,14 +65,14 @@ const dogs = [
       { icon: UserIcon, tooltip: "Family Companion" },
       { icon: Bone, tooltip: "Training Excellence" }
     ],
-    fullBio: "Bella Royal is more than just a show dog - she's a testament to the Boerboels breed's intelligence, loyalty, and versatility. Her calm demeanor and protective instincts make her an ideal family companion.",
+    fullBio: "Bantu Sunny is more than just a show dog - she's a testament to the Boerboels breed's intelligence, loyalty, and versatility. Her calm demeanor and protective instincts make her an ideal family companion.",
     healthCertificates: [
       "Comprehensive Health Screening",
       "Genetic Diversity Tested",
       "Premium Breeding Certification"
     ],
     trainingAchievements: [
-      "Advanced Obedience Champion",
+      "Advanced Obedience",
       "Therapy Dog Certification",
       "Family Protection Training"
     ],
@@ -85,13 +85,13 @@ const dogs = [
   {
     id: 3,
     name: "Swaliymo Tunya",
-    breed: "Boerboels",
+    breed: "Boerboel",
     image: "dog1.jpg",
-    age: "2 years",
-    color: "Black and White",
+    age: "3 & 1/2 years",
+    color: "Brown",
     weight: "45 lbs",
     height: "20 inches",
-    championships: "Agility Competition Winner",
+    championships: "Appraised",
     description: "An extraordinary Border Collie with unmatched intelligence and energy.",
     awards: [
       { icon: Clock, tooltip: "Speed Champion" }, 
@@ -100,14 +100,14 @@ const dogs = [
       { icon: Ruler, tooltip: "Precision Performer" },
       { icon: Thermometer, tooltip: "High Performance" }
     ],
-    fullBio: "Silver Arrow embodies the Border Collie's legendary intelligence and work ethic. With lightning-fast reflexes and an uncanny ability to learn, he's a true champion in agility and obedience.",
+    fullBio: "Swaliymo Tunya embodies the Border Collie's legendary intelligence and work ethic. With lightning-fast reflexes and an uncanny ability to learn, he's a true champion in agility and obedience.",
     healthCertificates: [
       "Genetic Health Screening",
       "Athletic Performance Certification",
       "Vision and Hearing Tested"
     ],
     trainingAchievements: [
-      "National Agility Champion",
+      "Advanced Obidience",
       "Advanced Herding Skills",
       "Trick Dog Certification"
     ],

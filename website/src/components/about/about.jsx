@@ -163,20 +163,20 @@ const About = () => {
 
 const team = [
   {
-    name: "Kruz Kenny",
+    name: "Stowell Madzure",
     role: "Head Breeder",
     image: "user.webp",
-    bio: "20+ years of breeding experience"
+    bio: "18+ years of breeding experience"
   },
   {
-    name: "John Musa",
+    name: "Kobe Kruz",
     role: "Head Breeder",
     image: "user.webp",
-    bio: "20+ years of breeding experience"
+    bio: "6+ years of breeding experience"
   },
   {
-    name: "John Dombo",
-    role: "Head Breeder",
+    name: "Doctor Richard",
+    role: "VET",
     image: "user.webp",
     bio: "20+ years of breeding experience"
   },

@@ -136,31 +136,31 @@ const Puppies = () => {
 const currentLitters = [
   {
     id: 1,
-    parents: "Tunya x Sunny",
+    parents: "Tunya x Queen",
     image: "pup.jpeg",
-    birthDate: "October 15, 2023",
-    colors: "Blue, Black, Brindle",
-    readyDate: "December 10, 2023",
+    birthDate: "Jan 29, 2025",
+    colors: "Brown",
+    readyDate: "March 20, 2025",
     availability: 3,
     description: "Beautiful, healthy puppies with excellent temperaments."
   },
   {
     id: 1,
-    parents: "Tunya x Sunny",
+    parents: "Tunya x Queen",
     image: "dg3.jpeg",
-    birthDate: "October 15, 2023",
-    colors: "Blue, Black, Brindle",
-    readyDate: "December 10, 2023",
+    birthDate: "November 30, 2024",
+    colors: "Brown",
+    readyDate: "Now",
     availability: 3,
     description: "Beautiful, healthy puppies with excellent temperaments."
   },
   {
     id: 1,
-    parents: "Tunya x Sunny",
+    parents: "Atlas x Sky",
     image: "dg4.jpeg",
-    birthDate: "October 15, 2023",
-    colors: "Blue, Black, Brindle",
-    readyDate: "December 10, 2023",
+    birthDate: "Sepember 25, 2024",
+    colors: "Brown, Black",
+    readyDate: "Now",
     availability: 3,
     description: "Beautiful, healthy puppies with excellent temperaments."
   },
@@ -170,20 +170,14 @@ const currentLitters = [
 const upcomingLitters = [
   {
     id: 1,
-    parents: "Tunya x Sunny",
-    expectedDate: "January 2024",
+    parents: "Tunya x Sacaface",
+    expectedDate: "March 30, 2025",
     expectedColors: "Blue, Black",
   },
   {
     id: 1,
-    parents: "Atlas x Nova",
-    expectedDate: "January 2024",
-    expectedColors: "Blue, Black",
-  },
-  {
-    id: 1,
-    parents: "Tunya x Sunny",
-    expectedDate: "January 2024",
+    parents: "Tunya x Suzzie",
+    expectedDate: "April 30, 2025",
     expectedColors: "Blue, Black",
   },
   // Add more upcoming litters

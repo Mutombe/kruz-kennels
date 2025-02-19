@@ -31,7 +31,7 @@ const Home = () => {
             className="text-white max-w-2xl"
           >
             <h1 className="font-display text-5xl md:text-7xl mb-6">
-              Welcome to <strong>Kobe Kruz Kennels</strong> 
+              Welcome to <br></br><strong>Kobe Kruz Kennels</strong> 
             </h1>
             <p className="text-xl md:text-2xl mb-8">
               Breeding exceptional companions with love, dedication, and expertise
@@ -244,7 +244,7 @@ const champions = [
     achievements: ["Show Champion", "Superior Breeding Line", "Excellence in Conformation"]
   },
   {
-    name: "GSD Female",
+    name: "Von Babbz Sky",
     image: "dg8.jpeg",
     description: "Exemplary female champion combining grace and power.  A true testament to excellence in German Shepherd breeding. A perfect blend of beauty and working ability.",
     achievements: ["Champion Bloodline", "Working Title", "Show Excellence"]

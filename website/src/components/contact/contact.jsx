@@ -24,7 +24,7 @@ let DefaultIcon = L.icon({
 L.Marker.prototype.options.icon = DefaultIcon;
 
 const Contact = () => {
-  const position = [-17.9221657,30.8778291];
+  const position = [-17.707522, 31.043176];
 
   return (
     <PageWrapper>
@@ -212,12 +212,12 @@ const contactInfo = [
   {
     icon: Mail,
     title: "Email",
-    content: "info@kobekruzkennels.com"
+    content: "kobekruzkennel@gmail.com"
   },
   {
     icon: MapPin,
     title: "Location",
-    content: "3100, Harare"
+    content: "3100, Mt Pleasant Heights, Harare Zimbabwe"
   },
   {
     icon: Clock,
