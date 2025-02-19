@@ -144,6 +144,16 @@ const currentLitters = [
     availability: 3,
     description: "Beautiful, healthy puppies with excellent temperaments."
   },
+    {
+    id: 1,
+    parents: "Atlas x Sky",
+    image: "pup00.jpeg",
+    birthDate: "Sepember 25, 2024",
+    colors: "Brown, Black",
+    readyDate: "Now",
+    availability: 3,
+    description: "Beautiful, healthy puppies with excellent temperaments."
+  },
   {
     id: 1,
     parents: "Tunya x Queen",
@@ -154,16 +164,7 @@ const currentLitters = [
     availability: 3,
     description: "Beautiful, healthy puppies with excellent temperaments."
   },
-  {
-    id: 1,
-    parents: "Atlas x Sky",
-    image: "dg4.jpeg",
-    birthDate: "Sepember 25, 2024",
-    colors: "Brown, Black",
-    readyDate: "Now",
-    availability: 3,
-    description: "Beautiful, healthy puppies with excellent temperaments."
-  },
+
   // Add more current litters
 ];
 
